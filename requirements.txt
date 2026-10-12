@@ -1,0 +1,9 @@
+transformers
+datasets
+sentence-transformers
+evaluate
+accelerate
+huggingface_hub
+scikit-learn
+torch
+pandas
